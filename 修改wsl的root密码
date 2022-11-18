@@ -1,0 +1,4 @@
+1.管理员身份运行powershell
+2.输入 wsl.exe --user root
+3.输入 passwd root
+4.输入新密码
